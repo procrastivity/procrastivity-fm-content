@@ -5,4 +5,4 @@ updated: 2026-05-23
 slug: about
 ---
 
-What even is this? It's AWESOME! 
+What even is this? It's AWESOME! You'll love it.
